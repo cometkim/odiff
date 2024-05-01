@@ -41,7 +41,7 @@
     "esy-libspng": "*",
     "esy-libtiff": "*",
     "esy-zlib": "*",
-    "ocaml": "4.14.x"
+    "ocaml": "5.1.x"
   },
   "devDependencies": {
     "ava": "^3.15.0",
@@ -53,12 +53,12 @@
   "resolutions": {
     "esy-cmake": "ManasJayanth/esy-cmake:esy.json#dcc7909f7ea0604f1d644b14a3e83d7ebaf64272",
     "@opam/reason": "3.9.0",
-    "@reason-native/file-context-printer": "reasonml/reason-native:file-context-printer.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
-    "@reason-native/cli": "reasonml/reason-native:cli.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
-    "@reason-native/rely": "reasonml/reason-native:rely.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
-    "@reason-native/pastel": "reasonml/reason-native:pastel.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
-    "@reason-native/console": "reasonml/reason-native:console.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
-    "refmterr": "reasonml/reason-native:refmterr.json#a0ddab6ab25237961e32d8732b0a222ec2372d4a",
+    "@reason-native/file-context-printer": "cometkim/reason-native:file-context-printer.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
+    "@reason-native/cli": "cometkim/reason-native:cli.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
+    "@reason-native/rely": "cometkim/reason-native:rely.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
+    "@reason-native/pastel": "cometkim/reason-native:pastel.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
+    "@reason-native/console": "cometkim/reason-native:console.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
+    "refmterr": "reasonml/reason-native:refmterr.json#de7ae18d6ae1e5b9aa165bcd12964b0c3ca723e4",
     "esy-libspng": "ManasJayanth/esy-libspng:esy.json#255c1531255d71d59a66b57af6d893a16c75dc0e",
     "esy-libjpeg": "eWert-Online/esy-libjpeg#76b287add2732e191a2c4a1c14a34bab63c4f74d",
     "esy-libtiff": "esy-packages/esy-libtiff#83b1f5c8f76ad42acb5c008f537b5b3f0902c066",
